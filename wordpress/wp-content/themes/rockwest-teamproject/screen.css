@@ -1,0 +1,109 @@
+header#masthead {
+  padding-top: 0 !important;
+  background: #29333d;
+  color: #cccccc;
+}
+header#masthead .navbar-nav > li > a {
+  color: #cccccc !important;
+}
+header#masthead #contact {
+  border-bottom: 1px solid #cccccc;
+  font-size: 12px;
+}
+header#masthead #contact .call-us {
+  padding-top: 0.5rem;
+}
+header#masthead #contact ul {
+  text-align: right;
+  margin: 0;
+}
+header#masthead #contact ul li {
+  display: inline-block;
+  height: 100%;
+  padding: 0.5rem;
+  border-left: thin solid #cccccc;
+  border-right: thin solid #cccccc;
+  box-sizing: border-box;
+}
+header#masthead #contact ul li.button {
+  background-color: #28ac60;
+}
+header#masthead #contact .button {
+  display: inline-block;
+}
+
+#page-sub-header {
+  height: 250px !important;
+}
+
+.single #content.site-content, .page #content.site-content {
+  padding-top: 1rem;
+}
+.single #content.site-content .entry-header, .page #content.site-content .entry-header {
+  border-bottom: 1px solid #cccccc;
+  padding-bottom: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+.single #content.site-content .entry-header h1, .page #content.site-content .entry-header h1 {
+  font-size: 3rem;
+  color: #28ac60;
+  border: none;
+  margin-bottom: 0.25rem;
+  padding: 0;
+}
+.single #content.site-content .entry-header .datum, .page #content.site-content .entry-header .datum {
+  color: #a4b3c2;
+  font-size: 0.75rem;
+}
+
+#content img.thumbnail {
+  padding-right: 0.25rem;
+  padding-bottom: 0.25rem;
+  box-sizing: border-box;
+}
+#content nav.pagination {
+  margin-top: 1rem;
+}
+#content nav.pagination .nav-links {
+  text-align: center;
+  width: 100%;
+}
+#content nav.pagination .nav-links a.page-numbers {
+  color: #28ac60;
+}
+#content nav.pagination .nav-links a.page-numbers:not(.next):not(.prev) {
+  border: #a4b3c2 thin solid;
+  padding: 0.3rem;
+}
+#content nav.pagination .nav-links a.page-numbers.prev {
+  float: left;
+}
+#content nav.pagination .nav-links a.page-numbers.next {
+  float: right;
+}
+
+div.vastgoed-list img {
+  height: 200px;
+  object-fit: cover;
+  width: 100%;
+}
+
+footer#colophon {
+  background-color: #29333d !important;
+  color: #cccccc !important;
+}
+
+body {
+  color: blue;
+}
+
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+/*# sourceMappingURL=screen.css.map */

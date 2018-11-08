@@ -1,0 +1,123 @@
+$color-base:#29333d;
+$color-white: hsl(hue($color-base),0,80);
+$color-contrast:#28ac60;
+$afstand: 0.5rem;
+ 
+header#masthead{
+    padding-top: 0!important;
+    background: $color-base;
+    color:$color-white;
+    .navbar-nav > li > a{
+        color:$color-white!important;
+    }
+    #contact{
+        border-bottom: 1px solid $color-white;
+        font-size:12px;
+        .call-us{
+            padding-top:$afstand;
+            
+        }
+        ul{
+            text-align: right;
+            margin: 0;
+            li{
+                display: inline-block;
+                height: 100%;
+                padding: $afstand;
+                border-left: thin solid $color-white;
+                border-right: thin solid $color-white;
+                box-sizing: border-box;
+                &.button{
+                    background-color:$color-contrast;
+
+                }
+            }
+        }
+        
+        .button{
+            display: inline-block;
+          }
+    }
+}
+
+#page-sub-header{
+    height: 250px!important;
+}
+
+.single #content.site-content,.page #content.site-content{
+    padding-top: 1rem;
+    .entry-header{
+        border-bottom: 1px solid $color-white;
+        padding-bottom:0.75rem;
+        margin-bottom:1.5rem;
+        h1{
+            font-size: 3rem;
+            color:$color-contrast;
+            border: none;
+            margin-bottom:.25rem;
+            padding:0;
+
+        }
+        .datum{
+            color:lighten($color-base,50%);
+            font-size:0.75rem;
+        }
+
+    }
+    
+    
+    
+}
+#content {
+    
+    img.thumbnail{
+        padding-right:0.25rem;
+        padding-bottom: .25rem;
+         box-sizing: border-box
+    }
+    nav.pagination{
+        margin-top:1rem;
+        .nav-links{
+            text-align: center;
+            width: 100%;
+            a.page-numbers{
+                color: $color-contrast;
+                &:not(.next):not(.prev){
+                    border: lighten($color-base,50%) thin solid;
+                    padding:0.3rem;
+                }
+                &.prev{
+                    float:left;
+                }
+                &.next{
+                    float:right;
+                }
+            }  
+        }              
+    }    
+}
+
+
+div.vastgoed-list {
+    img{
+        height: 200px;
+        object-fit: cover;
+        width: 100%
+    }    
+}
+
+
+
+footer#colophon {
+    background-color:$color-base!important;
+    color: $color-white!important;
+}
+body{color:blue}
+.full-width {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+  }
