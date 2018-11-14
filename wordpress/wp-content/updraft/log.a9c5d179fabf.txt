@@ -1,0 +1,157 @@
+0000.001 (0) Opened log file at time: Wed, 14 Nov 2018 14:35:21 +0000 on http://localhost
+0000.013 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.15.3 WP: 4.9.8 PHP: 7.2.1 (apache2handler, Windows NT DESKTOP-BBL8FQO 6.2 build 9200 (Windows 8) i586) MySQL: 5.6.34-log WPLANG: nl_BE Server: Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.1 mod_perl/2.0.8 Perl/v5.16.3 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 25.4M | 2M) multisite: N openssl: OpenSSL 1.1.0g  2 Nov 2017 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.016 (0) Free space on disk containing Updraft's temporary directory: 36132 MB
+0000.022 (0) Tasks: Backup files: 1 (schedule: fortnightly) Backup DB: 1 (schedule: fortnightly)
+0000.026 (0) Semaphore (fd, wpjjm_options) being initialised
+0000.034 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.044 (0) Set semaphore last lock (fd) time to 2018-11-14 14:35:21
+0000.047 (0) Semaphore lock (fd) complete
+0000.056 (0) Backup run: resumption=0, nonce=a9c5d179fabf, begun at=1542206121 (0s ago), job type=backup
+0000.062 (0) Scheduling a resumption (1) after 300 seconds (1542206421) in case this run gets aborted
+0000.094 (0) Checking if we have a zip executable available
+0000.102 (0) Creation of backups of directories: beginning
+0000.118 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.317 (0) Total entities for the zip file: 313 directories, 2253 files (0 skipped as non-modified), 38.4 MB
+0002.400 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.481 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.550 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.615 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.681 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.687 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (20.2 MB, 2253 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0005.961 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 600 files added (on-disk size: 6459.1 KB)
+0006.033 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 700 files added (on-disk size: 6459.1 KB)
+0006.104 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 800 files added (on-disk size: 6459.1 KB)
+0006.174 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 900 files added (on-disk size: 6459.1 KB)
+0006.246 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 1000 files added (on-disk size: 6459.1 KB)
+0006.254 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 2253 files batched, 501 (1002) added so far); re-opening (prior size: 6459.1 KB)
+0006.988 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 1100 files added (on-disk size: 7161.7 KB)
+0007.065 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 1200 files added (on-disk size: 7161.7 KB)
+0007.140 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 1300 files added (on-disk size: 7161.7 KB)
+0007.209 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 1400 files added (on-disk size: 7161.7 KB)
+0007.283 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 1500 files added (on-disk size: 7161.7 KB)
+0007.290 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.6 MB, 2253 files batched, 501 (1503) added so far); re-opening (prior size: 7161.7 KB)
+0008.255 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 1600 files added (on-disk size: 7979.5 KB)
+0008.324 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 1700 files added (on-disk size: 7979.5 KB)
+0008.393 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 1800 files added (on-disk size: 7979.5 KB)
+0008.461 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 1900 files added (on-disk size: 7979.5 KB)
+0008.526 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 2000 files added (on-disk size: 7979.5 KB)
+0008.533 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.9 MB, 2253 files batched, 501 (2004) added so far); re-opening (prior size: 7979.5 KB)
+0011.642 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 2100 files added (on-disk size: 10888.1 KB)
+0011.717 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip.tmp: 2200 files added (on-disk size: 10888.1 KB)
+0013.013 (0) Created plugins zip (0) - 12192.8 KB in 12.9 s (946.7 KB/s) (sha1: caf3509a85d197c7f23fdc211a9df50243228153, sha256: 1d1e34c81deda44021acdd22448cf30c0dd0652a8e7ba40bad656347ef28ede4)
+0013.023 (0) Beginning creation of dump of themes (split every: 400 MB)
+0013.307 (0) Total entities for the zip file: 45 directories, 266 files (0 skipped as non-modified), 11 MB
+0013.826 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0014.356 (0) Zip: backup_2018-11-14-1435_RockWest_a9c5d179fabf-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0016.254 (0) Created themes zip (0) - 3963.3 KB in 3.2 s (1231.3 KB/s) (sha1: 30dd4afc1fc4e0919c4cf70f0b410947f072cdfc, sha256: 6fcf7dcdf6979dfa515827b4aeb491e862a7be819c25bdb544efcb72b549cb72)
+0016.263 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0016.266 (0) Looking for candidates to backup in: C:\MAMP\htdocs\WPL3-WordpressTeamProject\wordpress/wp-content/uploads
+0016.269 (0) finding files: 2018: adding to list (1)
+0016.272 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0016.287 (0) Total entities for the zip file: 2 directories, 0 files (0 skipped as non-modified), 0 MB
+0016.306 (0) Created uploads zip (0) - 0.2 KB in 0 s (9.2 KB/s) (sha1: 6048e391c1be6841e7acdec1d1b0d91b9a32b536, sha256: a1b934d2535693502ea2f31c49ec5f2e670ad3ced2fad707fdb6deb27b477c9e)
+0016.315 (0) Beginning backup of other directories found in the content directory (index: 0)
+0016.318 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0016.321 (0) Looking for candidates to backup in: C:\MAMP\htdocs\WPL3-WordpressTeamProject\wordpress/wp-content
+0016.325 (0) finding files: index.php: adding to list (1)
+0016.328 (0) finding files: languages: adding to list (2)
+0016.332 (0) finding files: plugins: skipping: this is the plugins directory
+0016.336 (0) finding files: themes: skipping: this is the themes directory
+0016.339 (0) finding files: updraft: skipping: this is the updraft directory
+0016.343 (0) finding files: upgrade: skipping: excluded by options
+0016.346 (0) finding files: uploads: skipping: this is the uploads directory
+0016.350 (0) finding files: wp-cache-config.php: adding to list (3)
+0016.396 (0) Total entities for the zip file: 3 directories, 16 files (0 skipped as non-modified), 1.8 MB
+0016.858 (0) Created others zip (0) - 520.8 KB in 0.5 s (1055.2 KB/s) (sha1: e71d14fd7cfd84d0052cd66e683fc6c351fb1c9b, sha256: 6129afdbad4585fe18e371ea52e0dd3c8e93afd6b148e62945409cb9b87c247d)
+0016.872 (0) Saving backup status to database (elements: 8)
+0016.879 (0) Beginning creation of database dump (WordPress DB)
+0016.902 (0) Table wpjjm_options: Total expected rows (approximate): 253
+0016.940 (0) Table wpjjm_options: Total rows added: 249 in 0.04 seconds
+0016.948 (0) Table wpjjm_options: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_options.table.gz - 37.7 KB)
+0016.966 (0) Table wpjjm_users: Total expected rows (approximate): 1
+0016.978 (0) Table wpjjm_users: Total rows added: 1 in 0.01 seconds
+0016.988 (0) Table wpjjm_users: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_users.table.gz - 0.6 KB)
+0017.001 (0) Table wpjjm_usermeta: Total expected rows (approximate): 19
+0017.013 (0) Table wpjjm_usermeta: Total rows added: 19 in 0.01 seconds
+0017.019 (0) Table wpjjm_usermeta: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_usermeta.table.gz - 1.7 KB)
+0017.037 (0) Table wpjjm_commentmeta: Total expected rows (approximate): 0
+0017.049 (0) Table wpjjm_commentmeta: Total rows added: 0 in 0.01 seconds
+0017.053 (0) Table wpjjm_commentmeta: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_commentmeta.table.gz - 0.4 KB)
+0017.066 (0) Table wpjjm_comments: Total expected rows (approximate): 1
+0017.080 (0) Table wpjjm_comments: Total rows added: 1 in 0.01 seconds
+0017.087 (0) Table wpjjm_comments: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_comments.table.gz - 0.7 KB)
+0017.105 (0) Table wpjjm_links: Total expected rows (approximate): 0
+0017.123 (0) Table wpjjm_links: Total rows added: 0 in 0.01 seconds
+0017.129 (0) Table wpjjm_links: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_links.table.gz - 0.4 KB)
+0017.150 (0) Table wpjjm_postmeta: Total expected rows (approximate): 2
+0017.171 (0) Table wpjjm_postmeta: Total rows added: 2 in 0.02 seconds
+0017.183 (0) Table wpjjm_postmeta: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_postmeta.table.gz - 0.4 KB)
+0017.204 (0) Table wpjjm_posts: Total expected rows (approximate): 4
+0017.229 (0) Table wpjjm_posts: Total rows added: 4 in 0.02 seconds
+0017.237 (0) Table wpjjm_posts: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_posts.table.gz - 3.1 KB)
+0017.260 (0) Table wpjjm_term_relationships: Total expected rows (approximate): 1
+0017.284 (0) Table wpjjm_term_relationships: Total rows added: 1 in 0.02 seconds
+0017.292 (0) Table wpjjm_term_relationships: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_term_relationships.table.gz - 0.4 KB)
+0017.313 (0) Table wpjjm_term_taxonomy: Total expected rows (approximate): 1
+0017.334 (0) Table wpjjm_term_taxonomy: Total rows added: 1 in 0.02 seconds
+0017.342 (0) Table wpjjm_term_taxonomy: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_term_taxonomy.table.gz - 0.4 KB)
+0017.362 (0) Table wpjjm_termmeta: Total expected rows (approximate): 0
+0017.383 (0) Table wpjjm_termmeta: Total rows added: 0 in 0.02 seconds
+0017.390 (0) Table wpjjm_termmeta: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_termmeta.table.gz - 0.4 KB)
+0017.411 (0) Table wpjjm_terms: Total expected rows (approximate): 1
+0017.431 (0) Table wpjjm_terms: Total rows added: 1 in 0.02 seconds
+0017.438 (0) Table wpjjm_terms: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_terms.table.gz - 0.4 KB)
+0017.460 (0) Table wpjjm_yoast_seo_links: Total expected rows (approximate): 0
+0017.486 (0) Table wpjjm_yoast_seo_links: Total rows added: 0 in 0.02 seconds
+0017.493 (0) Table wpjjm_yoast_seo_links: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_yoast_seo_links.table.gz - 0.4 KB)
+0017.514 (0) Table wpjjm_yoast_seo_meta: Total expected rows (approximate): 0
+0017.533 (0) Table wpjjm_yoast_seo_meta: Total rows added: 0 in 0.02 seconds
+0017.540 (0) Table wpjjm_yoast_seo_meta: finishing file (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_yoast_seo_meta.table.gz - 0.3 KB)
+0017.560 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_options.table.gz (1/14): adding to final database dump
+0017.589 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_users.table.gz (2/14): adding to final database dump
+0017.592 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_usermeta.table.gz (3/14): adding to final database dump
+0017.597 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_commentmeta.table.gz (4/14): adding to final database dump
+0017.601 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_comments.table.gz (5/14): adding to final database dump
+0017.605 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_links.table.gz (6/14): adding to final database dump
+0017.608 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_postmeta.table.gz (7/14): adding to final database dump
+0017.612 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_posts.table.gz (8/14): adding to final database dump
+0017.616 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_term_relationships.table.gz (9/14): adding to final database dump
+0017.620 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_term_taxonomy.table.gz (10/14): adding to final database dump
+0017.624 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_termmeta.table.gz (11/14): adding to final database dump
+0017.627 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_terms.table.gz (12/14): adding to final database dump
+0017.631 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_yoast_seo_links.table.gz (13/14): adding to final database dump
+0017.635 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db-table-wpjjm_yoast_seo_meta.table.gz (14/14): adding to final database dump
+0017.642 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db.gz: finished writing out complete database file (24 KB)
+0017.669 (0) Total database tables backed up: 14 (backup_2018-11-14-1435_RockWest_a9c5d179fabf-db.gz, size: 45015, sha256)
+0017.685 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0017.689 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0017.692 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0017.696 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-others.zip: others: This file has not yet been successfully uploaded: will queue
+0017.699 (0) backup_2018-11-14-1435_RockWest_a9c5d179fabf-db.gz: db: This file has not yet been successfully uploaded: will queue
+0017.702 (0) Saving backup history. Total backup size: 16.3 MB
+0017.710 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0017.719 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0017.722 (0) No remote despatch: user chose no remote backup service
+0017.726 (0) Recording as successfully uploaded: backup_2018-11-14-1435_RockWest_a9c5d179fabf-plugins.zip
+0017.732 (0) Recording as successfully uploaded: backup_2018-11-14-1435_RockWest_a9c5d179fabf-themes.zip
+0017.739 (0) Recording as successfully uploaded: backup_2018-11-14-1435_RockWest_a9c5d179fabf-uploads.zip
+0017.745 (0) Recording as successfully uploaded: backup_2018-11-14-1435_RockWest_a9c5d179fabf-others.zip
+0017.752 (0) Recording as successfully uploaded: backup_2018-11-14-1435_RockWest_a9c5d179fabf-db.gz
+0017.762 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0017.767 (0) Number of backup sets in history: 1; groups (db): 1
+0017.770 (0) Examining (for databases) backup set with group_id=0, nonce=a9c5d179fabf, datestamp=1542206121 (Nov 14 2018 14:35:21)
+0017.774 (0) This backup set is the backup set just made, so will not be deleted.
+0017.774 (0) Number of backup sets in history: 1; groups (files): 1
+0017.778 (0) Examining (for files) backup set with nonce=a9c5d179fabf, datestamp=1542206121 (Nov 14 2018 14:35:21)
+0017.778 (0) This backup set is the backup set just made, so will not be deleted.
+0017.782 (0) This backup set is the backup set just made, so will not be deleted.
+0017.783 (0) This backup set is the backup set just made, so will not be deleted.
+0017.783 (0) This backup set is the backup set just made, so will not be deleted.
+0017.784 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0017.788 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0017.801 (0) Resume backup (a9c5d179fabf, 0): finish run
+0017.813 (0) Decremented the semaphore (fd) by 1
+0017.821 (0) Semaphore (fd) unlocked
+0017.829 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0017.844 (0) No email will/can be sent - the user has not configured an email address.
+0017.848 (0) The backup apparently succeeded and is now complete
